@@ -20,7 +20,7 @@
 # **Dibujar el suelo**
 Crear un terreno estático sirve de referencia para el jugador, ayudándole a orientarse
 
-# **Generar perspectiva atmoférisca**
+# **Generar perspectiva atmosférica**
 Esta perspectiva puede ayudar al usuario a entender la escala del entorno virtual
 
 # **Características del terreno**
